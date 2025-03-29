@@ -18,7 +18,5 @@ function myMethod(){
     cross.addEventListener("click", function(){
         text.remove();
     })
-
-
 }
 

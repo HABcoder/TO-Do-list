@@ -2,9 +2,6 @@
     margin: 0;padding: 0;
     box-sizing: border-box;
 }
-:root {
-    --primary-color: #3498db;
-}
 body {
     font-family: Arial, sans-serif;
     height: 100%;
@@ -34,7 +31,6 @@ input {
 }
 h2{
     font-size: 30px;
-    /* margin: auto; */
     text-align: center;
     margin: 20px 0;
 }
